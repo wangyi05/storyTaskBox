@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,10 +37,10 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-knobs": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
-    "@storybook/addon-storyshots": "^5.3.18",
+    "@storybook/addon-storyshots": "^7.6.20",
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^2.1.1",
-    "@storybook/react": "^5.3.18",
+    "@storybook/react": "^9.1.1",
     "react-redux": "^7.2.0",
     "react-test-renderer": "^16.13.1",
     "redux": "^4.0.5"
